@@ -23,8 +23,10 @@ Download aplikasi Cooktify sekarang dan mulai memasak dengan lebih cerdas dan ra
 *	Bahasa : JavaScript
 
 # Flowchart #
+![Flowchart](https://github.com/SOLID-team-app/Documentation/issues/1#issue-2235927667)
 
 # Data Model #
+![DataModel](https://github.com/SOLID-team-app/Documentation/issues/2#issuecomment-2047917050)
 
 # Penduan Pengguna #
 1.	Bagi pengguna baru, silakan melakukan registrasi akun terlebih dahulu atau dapat masuk dengan akun Google.
